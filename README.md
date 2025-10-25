@@ -35,12 +35,10 @@ The goal is to clean and transform raw retail data, store it in a SQL database, 
 - **Default Table Name:** `<your_table_name>`
 
 > ⚠️ Before running, **replace** the server name and database name with your own:
-> - Replace `P<your_server_name>` → with your SQL Server instance  
+> - Replace `<your_server_name>` → with your SQL Server instance  
 > - Replace `<your_database_name>` → with your desired database name  
 
-Example:  
-`YOUR_SERVER_NAME\SQLSERVER`  
-`YOUR_DATABASE_NAME`
+
 
 ---
 
