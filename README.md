@@ -30,13 +30,13 @@ The goal is to clean and transform raw retail data, store it in a SQL database, 
 ---
 
 ## 🧾 Configuration
-- **Default Server Name:** `PAVITRA\MSSQL`  
-- **Default Database Name:** `TestDB`  
-- **Default Table Name:** `orders_data`
+- **Default Server Name:** `<your_server_name>`  
+- **Default Database Name:** `<your_database_name>`  
+- **Default Table Name:** `<your_table_name>`
 
 > ⚠️ Before running, **replace** the server name and database name with your own:
-> - Replace `PAVITRA\MSSQL` → with your SQL Server instance  
-> - Replace `TestDB` → with your desired database name  
+> - Replace `P<your_server_name>` → with your SQL Server instance  
+> - Replace `<your_database_name>` → with your desired database name  
 
 Example:  
 `YOUR_SERVER_NAME\SQLSERVER`  
